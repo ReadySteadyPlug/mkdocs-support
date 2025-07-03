@@ -26,7 +26,7 @@ home_gradient_hsla: hsla(0deg,47%,55%,1) # Default Green: hsla(160deg,47%,55%,1)
 
 # Custom Homepage Footer
 #home_footer_blurb: <a href="https://ReadySteadyPlug.com" target= "_blank">https://ReadySteadyPlug.com</a>  # Comment this parameter out to remove the footer text.
-home_footer_image: attachments/RSP_LOGO_OW.svg # This path starts at your root mkdocs directory.  
+home_footer_image: attachments/RSP_LOGO_RG.svg # This path starts at your root mkdocs directory.  
 home_footer_link: https://ReadySteadyPlug.com
 
 # Custom Homepage Button(s)

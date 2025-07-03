@@ -63,14 +63,14 @@ If you want to remove the charge point from your account for any reason, Tap the
 If you want to re-add it into your account, just follow the pairing process again, as described [above](#initial-pairing-of-your-charge-point).
 
 ### Charge Point FAQ's
-??? note "FAQ - Can someone pair my charge point without me knowing?"
+!!! note "FAQ - Can someone pair my charge point without me knowing?"
 
     No one can pair with or unpair the CP while it is linked to your account.
     If you wish to unpair it, you can do so as described [above](#removing-a-charge-point).
     Once removed, someone else – such as a visitor or other tenant – can pair the CP using their own account and credit card.
     When you want to use the CP again after unpairing it, just follow the pairing instructions [above](#initial-pairing-of-your-charge-point).
 
-??? note "FAQ - Can someone use my charge point without my authorisation?"
+!!! note "FAQ - Can someone use my charge point without my authorisation?"
     There’s no need to worry about anyone using your charge point without your authorisation.
     You can switch it OFF whenever it’s not in use, and in any case, it will automatically turn OFF after one hour of inactivity.
 
@@ -85,11 +85,11 @@ Add credit card details
 At the end of the process your credit card is charged $20, which will be your initial balance. This is also the amount that the system automatically charges your credit card once the balance goes below $5 (similar to how E-Toll or Opal cards work.)
 
 ### Billing FAQ's
-??? note "FAQ - Can I get a refund if I stop using the system?"
+!!! note "FAQ - Can I get a refund if I stop using the system?"
     If you decide to stop using the solution and would like the remaining balance in your
     account returned, please select “Remove Card” in the “Card Details” view. 
 
-??? note "FAQ - Can I switch to a different credit card?"
+!!! note "FAQ - Can I switch to a different credit card?"
     Yes, please select “Remove Card” in the “Card Details” view. Then proceed to add a new card as described [above](#setting-up-billing-details).
 
 ## Starting and stopping a charge session
@@ -147,6 +147,11 @@ Tap on **Energy** in the main navigation to see your historical energy usage. De
 /// caption
 Historical energy usage
 ///
+
+### Energy Usage FAQ's
+!!! note "FAQ - How come the RSP app charging session kWh doesn't match what my car reports?"
+    There may be a difference in the energy delivered as reported by RSP vs the energy received as reported by your car. This is due to the fact that there are losses in the car charger components, namely the L1 charger plugged into the wall outlet and also the onboard charging circuitry within the car. This will result in a slightly higher figure reported by the RSP app than what the car reports. Both figures are correct, it just reflects the different measurement positions.
+
 
 ## Payment history
 Tap on **Payment History** in the main navigation to see your past payments. Details include:
