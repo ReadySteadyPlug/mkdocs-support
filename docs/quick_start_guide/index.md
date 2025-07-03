@@ -74,6 +74,9 @@ If you want to re-add it into your account, just follow the pairing process agai
     There’s no need to worry about anyone using your charge point without your authorisation.
     You can switch it OFF whenever it’s not in use, and in any case, it will automatically turn OFF after one hour of inactivity.
 
+!!! example "FAQ - Can I share my charge point with my neighbour?"
+    This is a feature under development in beta phase. If this is something you would like to trial, please email us at [support@readysteadyplug.com](mailto:support@readysteadyplug.com), with the subject line: "Shared charge point beta tester".
+    
 
 ## Setting up billing details
 To start a charge session, tap "Card Details" from the left hand navigation.
