@@ -152,7 +152,7 @@ Historical energy usage
 ///
 
 ### Energy Usage FAQ's
-!!! note "FAQ - How come the RSP app charging session kWh doesn't match what my car reports?"
+!!! note "FAQ - The RSP app charging session kWh doesn't match what my car reports. Why is that?"
     There may be a difference in the energy delivered as reported by RSP vs the energy received as reported by your car. This is due to the fact that there are losses in the car charger components, namely the L1 charger plugged into the wall outlet and also the onboard charging circuitry within the car. This will result in a slightly higher figure reported by the RSP app than what the car reports. Both figures are correct, it just reflects the different measurement positions.
 
 
