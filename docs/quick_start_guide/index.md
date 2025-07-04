@@ -2,8 +2,12 @@
 To interact with your charge point, including initial pairing and starting/stopping charge sessions, access the RSP web app as follows. The app will be available for both Android and iOS in the near future (July 2025):  
 
 === "Web app"
-	If you don't want to use an app, or want to access it from your computer web browser, you can access all functionality at [https://prod.readysteadyplug.com](https://prod.readysteadyplug.com).
+	If you don't want to use an app, or want to access it from your computer web browser, you can access all functionality at [https://app.readysteadyplug.com](https://app.readysteadyplug.com).
+    
+    !!! note Site Manager Access
 
+        If you are a Site Manager, please log in here at [https://app.readysteadyplug.com:8090](https://app.readysteadyplug.com:8090).
+    
 === "iOS (coming soon)"
 	Visit the [iOS app store](https://apple.com/au/app-store/) and search for ReadySteadyPlug
 
@@ -43,7 +47,7 @@ Charge point with QR code and pairing ID (1234ABCD5-1)
 
 === "Use charge point ID code"
 
-    1. Visit [https://prod.readysteadyplug.com](https://prod.readysteadyplug.com)
+    1. Visit [https://app.readysteadyplug.com](https://app.readysteadyplug.com)
     2. You will be taken to the RSP sign up screen where you can create a new account using your email address or an existing Google account if you prefer.
     3. Once you have finished signing up, tap the "Manage Charge Points" menu item and enter the charge point ID (refer image below). In the example above, the charge point ID is **(1234ABCD5-1)**.
 
@@ -76,6 +80,9 @@ If you want to re-add it into your account, just follow the pairing process agai
 
 !!! example "FAQ - Can I share my charge point with my neighbour?"
     This is a feature under development in beta phase. If this is something you would like to trial, please email us at [support@readysteadyplug.com](mailto:support@readysteadyplug.com), with the subject line: "Shared charge point beta tester".
+
+### Charge point ratings and charging speeds
+The RSP Charge Point is designed for a Level 1 EV charger rated at up to 15 Amps. This is the equivalent of up to 3.6kW. Note that many cars only come with an 8A charger (nominally 1.9kW). 
     
 
 ## Setting up billing details

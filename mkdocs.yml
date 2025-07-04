@@ -13,9 +13,9 @@ nav:
 
 # Custom Homepage Elements
 home_cover_image: attachments/charging_setup.png # This path starts at your root mkdocs directory.
-home_tagline: ReadySteadyPlug - Let's Go
+home_tagline: ReadySteadyPlug - Innovative Level 1 EV Charging. Let's Go!
 home_description: |
-  Welcome to the support and information pages for ReadySteadyPlug.
+  Welcome to the support and information pages for <a href="https://ReadySteadyPlug.com" target= "_blank" style="color:white;">ReadySteadyPlug.</a>
 
 #show whole section below homepage gradient
 home_show_bottom_pane: false  #set to false to hide the bottom pane of the home page below the gradient
@@ -30,7 +30,7 @@ home_footer_image: attachments/RSP_LOGO_RG.svg # This path starts at your root m
 home_footer_link: https://ReadySteadyPlug.com
 
 # Custom Homepage Button(s)
-home_button1_name: Get Started                  # Comment this parameter out to remove the button.
+home_button1_name: Quick Start Guide                  # Comment this parameter out to remove the button.
 home_button1_url: quick_start_guide/                       # This path starts at your root mkdocs directory.
 home_button1_theme: md-button md-button--primary  # Options: "md-button", "md-button md-button--primary"
 #home_button1_icon: people                        # Options: "people", "gear", "image"
