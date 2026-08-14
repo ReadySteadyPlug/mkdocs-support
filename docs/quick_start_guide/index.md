@@ -1,18 +1,36 @@
 ## Install the RSP app
-To interact with your charge point, including initial pairing and starting/stopping charge sessions, access the RSP web app as follows. The app will be available for both Android and iOS in the near future (July 2025):  
+To interact with your charge point, including initial pairing and starting/stopping charge sessions, access the RSP web app as follows. 
+<!-- The app will be available for both Android and iOS in the near future (July 2025)-->
 
 === "Web app"
-	If you don't want to use an app, or want to access it from your computer web browser, you can access all functionality at [https://app.readysteadyplug.com](https://app.readysteadyplug.com).
-    
+	To use the web app on your mobile/tablet, or want to access it from your computer web browser, you can access all functionality at [https://app.readysteadyplug.com](https://app.readysteadyplug.com). You can also just scan the QR code on your outlet.
+    If the browser does not prompt you to 'install' the web app and create an icon on your phone home screen, you can manually install it using the following instructions:
+          
     !!! note Site Manager Access
 
         If you are a Site Manager, please log in here at [https://app.readysteadyplug.com:8090](https://app.readysteadyplug.com:8090).
     
+
+=== "iOS"
+	    1. Open the website in Safari or Chrome (or use the charging outlet QR code)
+        2. Tap the share button (square with arrow pointing up) at the bottom of the screen
+        3. Tap "Add to Home Screen"
+        4. Tap "Add"
+        Your new "web app" will appear in the next available space on your device's Home screen. To move it like you would any other app, tap and hold its icon, then tap Edit Home Screen, and you'll be able to drag it to your desired location. When you've placed it where you want it, tap Done.
+
+=== "Android"
+        1. Open the website in Chrome (or use the charging outlet QR code)
+        2. Tap the menu button (three dots in the top right)
+        3. Tap "Install and create shortcut"
+        4. Tap "Install" and follow the on-screen instructions
+
+<!--
 === "iOS (coming soon)"
-	Visit the [iOS app store](https://apple.com/au/app-store/) and search for ReadySteadyPlug
+	<!--Visit the [iOS app store](https://apple.com/au/app-store/) and search for ReadySteadyPlug
 
 === "Android (coming soon)"
 	Visit [Google Play](https://play.google.com/store/apps/) and search for ReadySteadyPlug
+-->
 
 ## Main app navigation
 The left hand navigation provides access to all the key functions.
