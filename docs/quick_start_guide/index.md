@@ -219,5 +219,12 @@ Tap on the **Circular Icon** in the top right hand corner. This allows you to ma
 Account details
 ///
 
+## Charger Details
+### Standards compliance
+The RSP system is designed to work in conjunction with standards compliant Level 1 EV chargers to achieve an overall level of safety. The charger that came with your car should be compliant but please ensure your personal Level 1 charger complies with all applicable IEC/Australian Standards, in particular IEC/AS62752 and carries the Australian RCM mark for electrical safety testing compliance. RSP will not be liable for any loss, damage, injury, loss of life for failing to follow this requirement.
+
+!!! note "What is the Regulatory Compliance Mark (RCM)"
+    The Regulatory Compliance Mark (RCM) is a symbol indicating that a product complies with Australian and New Zealand electrical safety and communications regulations.
+
 ## More help
 If you need more assistance in any way, please do not hesitate to contact us at [support@readysteadyplug.com](mailto:support@readysteadyplug.com).
